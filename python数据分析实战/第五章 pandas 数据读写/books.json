@@ -1,0 +1,9 @@
+[{"writer":"Mark Ross",
+"nationality":"USA",
+"books":[
+	{"title":"XML Cookbook","price":23.56},
+	{"title":"Python Fundamentals","price":50.70},
+	{"title":"The Numpy library","price":12.30}
+	]
+
+}]
